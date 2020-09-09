@@ -76,7 +76,7 @@
 <br>
 
 
-## Como executar.
+## Como executar
 <p align="justify" name="executar">
   Siga os seguintes passos para executar a aplicação.
 </p>
@@ -112,7 +112,7 @@
 </pre>
 
 
-## Testando no insomnia.
+## Testando no insomnia
 <p align="justify" name="insomnia">
   Para testar utilizando o Insomnia, a rota para post é a de criação de um game(jokenpo)
 <br>
