@@ -152,7 +152,7 @@ SQLite é uma biblioteca em linguagem C que implementa um banco de dados SQL emb
 
 ## Teste Unitários
 <p align="justify" name="sobre">
-  Para executar o teste unitário  desenvolvido nesta aplicação, executa o comando:
+  Para executar o teste unitário  desenvolvido nesta aplicação:
 </p>
 
 <pre>
