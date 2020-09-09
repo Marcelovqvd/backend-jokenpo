@@ -16,8 +16,6 @@
 <p name="Oquefaz">:rocket: Cria diversas partidas de Jokenpo.</p>
 <p name="Oquefaz">:rocket: Utiliza testes unitários.</p>
 
-## Status do Projeto: Concluido :heavy_check_mark:
-
 ## Tecnologias utilizadas
 <p align="justify" name="tecs">
   As tecnologias utilizadas para este projeto são:
@@ -160,3 +158,5 @@ SQLite é uma biblioteca em linguagem C que implementa um banco de dados SQL emb
     npm run test
   </code>
 </pre>
+
+## Status do Projeto: Concluido :heavy_check_mark:
