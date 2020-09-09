@@ -9,9 +9,12 @@ npm run knex:migrate
 Seed
 npm run knex:seed
 
+Testes
+Jest
+npm install --save-dev jest
 
-https://app.rocketseat.com.br/node/next-level-week/lesson/nlw-1-backend-da-aplicacao
+v. https://app.rocketseat.com.br/node/nivel-04/group/testes-e-tdd/lesson/configurando-jest-3
+yarn jest --init
 
-parei:
-1h26`
-
+executar
+npm run test
