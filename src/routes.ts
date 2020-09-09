@@ -1,24 +1,17 @@
 import express from 'express';
 import knex from './database/connection';
 
+import GamesController from './controllers/GamesController';
+
 const routes = express.Router();
+const gamesController = new GamesController();
 
-routes.post('/jokenpo', async (request, response) => {
-  const {
-    playerOne,
-    playerTwo,
-    playerOnePlay,
-    playerTwoPlay,
-  } = request.body;
+routes.post('/jokenpo', gamesController.create);
 
-  await knex('games').insert({
-    playerOne,
-    playerTwo,
-    playerOnePlay,
-    playerTwoPlay,
-  })
+/* routes.get('/jokenpo', async (request, response) => {
+  await (await knex('games')).find()
 
-  return response.json({message: 'hello'})
+  return response.json({name: playerOne});
 })
-
+ */
 export default routes;

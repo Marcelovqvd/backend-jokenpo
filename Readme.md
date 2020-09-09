@@ -9,3 +9,9 @@ npm run knex:migrate
 Seed
 npm run knex:seed
 
+
+https://app.rocketseat.com.br/node/next-level-week/lesson/nlw-1-backend-da-aplicacao
+
+parei:
+1h26`
+
