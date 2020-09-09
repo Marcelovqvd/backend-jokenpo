@@ -5,7 +5,7 @@
 [Tecnologias utilizadas](#tecs)<br>
 [Como executar](#executar)<br>
 [Testando no insomnia](#insomnia)<br>
-[Comandos SQL](#comandossql)<br>
+[Sobre o SQLite](#comandossql)<br>
 [Teste Unitários](#testes)<br>
 
 ## Sobre
