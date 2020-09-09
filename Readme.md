@@ -140,7 +140,7 @@
 ## Sobre o SQLite
 <p name="comandossql">
 SQLite é uma biblioteca em linguagem C que implementa um banco de dados SQL embutido.
-  Para criar tabela games:
+  A tabela utilizada nesta aplicação é chamada de 'games'. Para criá-la, execute o comando:
 </p>
 
 <pre>
@@ -152,7 +152,7 @@ SQLite é uma biblioteca em linguagem C que implementa um banco de dados SQL emb
 
 ## Teste Unitários
 <p align="justify" name="sobre">
-  Para executar testes unitários na aplicação:
+  Para executar o teste unitário  desenvolvido nesta aplicação, executa o comando:
 </p>
 
 <pre>
