@@ -13,8 +13,8 @@
   Aplicação que simula um jogo de Jokenpo entre duas pessoas.
 </p>
 
-<p name="Oquefaz">:trophy: Cria diversas partidas de Jokenpo.</p>
-<p name="Oquefaz">:trophy: Utiliza testes unitários.</p>
+<p name="Oquefaz">:Rocket: Cria diversas partidas de Jokenpo.</p>
+<p name="Oquefaz">:Rocket: Utiliza testes unitários.</p>
 
 ## Status do Projeto: Concluido :heavy_check_mark:
 
